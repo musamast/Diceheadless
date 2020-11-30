@@ -32,7 +32,7 @@ class DiceScraper():
         ua = UserAgent()
         userAgent = ua.random
         chrome_option.add_argument(f'user-agent={userAgent}')
-        self.driver=webdriver.Chrome(executable_path=os.path.abspath('chromedriver.exe'),options=chrome_option)
+        self.driver=webdriver.Chrome(executable_path=os.path.abspath('chromedriver'),options=chrome_option)
         self.driver.get('https://www.dice.com/dashboard/login')
         self.counter=0
         
