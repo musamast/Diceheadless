@@ -1,0 +1,6 @@
+MuleSoft||https://www.dice.com/jobs?q=mulesoft&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.employmentType=FULLTIME%7CCONTRACTS%7CTHIRD_PARTY&language=en||||||100||MuleSoft||||
+Kronos||https://www.dice.com/jobs?q=kronos&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.employmentType=FULLTIME%7CCONTRACTS%7CTHIRD_PARTY&language=en||||||100||Kronos||||
+BAFavourite||https://www.dice.com/jobs?q=title:%20(%22business%20analyst%22%20AND%20(Siebel%20OR%20CRM%20OR%20integration%20OR%20data%20OR%20SQL%20OR%20healthcare%20or%20pharma))&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&language=en||||||100||BAFavourite||||
+BAThirdParty||https://www.dice.com/jobs?q=title:%20Business%20Analyst&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.employmentType=THIRD_PARTY&language=en||||||346||BAThirdParty||||
+BAContract||https://www.dice.com/jobs?q=title:%20Business%20Analyst&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.employmentType=CONTRACTS&language=en||||||1000||BAContract||||
+BAFullTime||https://www.dice.com/jobs?q=title:%20Business%20Analyst&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.employmentType=FULLTIME&language=en||||||1000||BAFullTime||||
