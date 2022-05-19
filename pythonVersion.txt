@@ -1,2 +1,0 @@
-Python 3.8.3
-sudo apt-get install -y chromium-browser
